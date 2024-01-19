@@ -1,0 +1,35 @@
+.flexRight{
+   
+        display:flex; justify-content: right;
+}
+
+.flexCenter{
+   
+    display:flex; justify-content: center;
+}
+
+.flexLeft{
+   
+    display:flex; justify-content: left;
+}
+
+.circleImg{
+    border-radius: 100%; width: 250px
+}
+
+.circleImg1{
+    border-radius: 100%; width: 150px
+}
+
+.D0941E{
+    background-color: #D0941E;
+}
+
+.JPicBack{
+    background-image: url(../assets/gate.jpg);
+    background-size: cover;
+}
+
+.font{
+    font-family:'Times New Roman', Times, serif;
+}
